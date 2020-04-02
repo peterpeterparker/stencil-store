@@ -18,8 +18,7 @@ const { state, onChange } = createStore({
   'squaredClicks': 0
 });
 
-// Can be used to memoize state
-// Subscribe is only executed when 'seconds' and 'click' changes!
+// Listen when the prop 'clicks' change
 onChange('clicks', value => {
   state.squaredClicks = value ** 2;
 });
