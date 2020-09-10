@@ -4,13 +4,13 @@ This repo is a fork of the [@stencil/store](https://github.com/ionic-team/stenci
 
 Stencil Store is a lightweight shared state library by the [StencilJS](https://stenciljs.com/) core team. It implements a simple key/value map that efficiently re-renders components when necessary.
 
-**Highlights:**
+## Table of contents
 
-- Goal
-- Difference with original project
-- Blog post
-- Documentation
-- Questions and observations
+- [Goal](#goal)
+- [Difference with original project](#difference-with-original-project)
+- [Blog post](#blog-post)
+- [Documentation](#documentation)
+- [Questions and observations](#questions-and-observations)
 
 ## Goal
 
