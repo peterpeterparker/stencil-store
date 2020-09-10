@@ -1,4 +1,4 @@
-# @stencil/store
+# @stencil/store for Angular
 
 This repo is a fork of the [@stencil/store](https://github.com/ionic-team/stencil-store).
 
